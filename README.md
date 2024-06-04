@@ -1,4 +1,7 @@
 # eggsong
-Macro(s) for egg song in Animal Well
+Macros for egg song in Animal Well
 
-So far, the only macro is for Razer Synapse, but if anyone shares/I have time I'll add others!
+Currently includes macros for the following software:
+
+- Razer Synapse (contributed by @Lake-Erie)
+- AutoHotkey v1.1 (contributed by @Ferroin, use Ctrl-Shift-S while the flute is out to play the song)
